@@ -1,0 +1,32 @@
+{
+  "name": "javascript-iii",
+  "version": "1.0.0",
+  "description": "this and class constructor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vue-cli-service build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thaiq8nguyen/JavaScript-III.git"
+  },
+  "author": "Thai Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thaiq8nguyen/JavaScript-III/issues"
+  },
+  "homepage": "https://github.com/thaiq8nguyen/JavaScript-III#readme",
+  "dependencies": {
+    "@vue/cli-service": "^3.8.0",
+    "cross-env": "^5.2.0",
+    "less": "^3.9.0",
+    "less-loader": "^5.0.0",
+    "vue": "^2.6.10",
+    "vue-template-compiler": "^2.6.10",
+    "webpack": "^4.33.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.4"
+  }
+}
